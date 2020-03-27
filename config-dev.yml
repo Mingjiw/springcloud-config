@@ -1,2 +1,3 @@
 config:
-	master:application-dev.yml,version=2
+  version: 1
+  master: dev
